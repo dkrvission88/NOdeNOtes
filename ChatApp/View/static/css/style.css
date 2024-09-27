@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.background{
+    background-color: #712cf9;
+}
+.right,.left{
+    width: 60%;
+    margin: 10px;
+
+}
+.right{
+    float: right;
+}
+
+.center{
+    width: 50%;
+    margin: 10px 400px;
+    text-align: center;
+    /* text-decoration: underline; */
+    background-color: rgb(237, 223, 207);
+
+}
+.mid-section{
+    height: 500px;
+    overflow: auto;
+}
+.container{
+    margin-bottom: 50px;
+    /* display: flex; */
+    /* position: fixed; */
+}
